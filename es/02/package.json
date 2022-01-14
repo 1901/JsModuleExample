@@ -1,0 +1,12 @@
+{
+  "name": "es-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "1901",
+  "license": "ISC"
+}
