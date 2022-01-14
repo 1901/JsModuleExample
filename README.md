@@ -24,6 +24,7 @@
 
 - 全称：Universal Module Definition
 - 项目地址：[umd](https://github.com/umdjs/umd)
+- 示例： [papaparse.js](https://github.com/mholt/PapaParse/blob/1f2c733/papaparse.js)
 - 下面的代码大致描述了 `UMD` 的工作原理
 ```js
 (function(root, factory) {
@@ -56,3 +57,4 @@
 
 ## 参考
 - https://segmentfault.com/a/1190000022599809
+- https://www.cyj.me/why-seajs/zh/
